@@ -8,4 +8,4 @@ The interviewing stage of the project has officially begun, with research member
 
 As the project continues to evolve, more updates and news will be posted to this page. Make sure to bookmark this site, as project toolkits and outputs will be made available here. 
 
-Please also remember to follow us on Twitter and like us on Facebook. 
+Please also remember to [follow](https://twitter.com/datainfolit) us on Twitter and [like](https://www.facebook.com/datainfolit) us on Facebook. 
