@@ -8,10 +8,10 @@ All of our project teams are in the process of putting finalizing touches on the
 
 Purdue University: One team at Purdue is working with a service learning program to teach students skills and best practices in documenting software code. A separate team will be beginning their educational intervention this month, with the first focus being a file checklist.
 
-University of Minnesota: The University of Minnesota project team is currently developing a 7 module online course which, upon completion, will result in a student data management plan. (Update: The online course is available at z.umn.edu/datamgmt.)
+University of Minnesota: The University of Minnesota project team is currently developing a 7 module online course which, upon completion, will result in a student data management plan. (Update: The online course is available at [z.umn.edu/datamgmt](https://sites.google.com/a/umn.edu/data-management-course_structures/home-1).)
 
 University of Oregon: The University of Oregon team is developing data management training sessions for graduate students to be implemented this semester during research group meetings.
 
 Cornell University: Cornell University is in the process of developing a special topics course on data management for students which will begin on October 11. Team members are working on the content for the course in preparation for its start date.
 
-As always, the most up-to-date information can be found on our social media feeds, including Facebook and Twitter. As project outputs continue to be released, they will be posted on the Materials page.
+As always, the most up-to-date information can be found on our social media feeds, including [Facebook](https://www.facebook.com/datainfolit) and [Twitter](https://twitter.com/datainfolit). As project outputs continue to be released, they will be posted on the Materials page.
