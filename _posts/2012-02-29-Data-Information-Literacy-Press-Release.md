@@ -12,4 +12,6 @@ The program is intended for graduate students in engineering and science discipl
 
 "Technology has made it easier to share research data beyond the lab in which it was originally created," Carlson said. "The problem right now is that in many cases data are not being administered in ways that enable them to be easily discovered, understood or repurposed for use by other researchers."
 
+[Continue Reading ...](http://www.purdue.edu/newsroom/general/2012/120227CarlsonDIL.html)
+
 Please check back for continued updates as the project progresses. 
