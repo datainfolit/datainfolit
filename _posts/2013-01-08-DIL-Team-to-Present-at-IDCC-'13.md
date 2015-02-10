@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DIL Team to Present at IDCC '13 - Jan. 16th 
+title: "DIL Team to Present at IDCC '13 - Jan. 16th" 
 date: 2013-01-08
 ---
 
