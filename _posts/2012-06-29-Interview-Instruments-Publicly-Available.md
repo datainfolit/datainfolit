@@ -8,4 +8,4 @@ On Wednesday, several documents were posted to the wiki which comprise the inter
 
 The instruments have been made publicly available in the hopes that librarians at other institutions will re-purpose them for their own usage. As explained on our Materials page - where you can download the documents - the instruments are generic in nature so that they can be applied to any research discipline.
 
-We welcome any questions and feedback on the interview instruments and invite you to send them to us. For discussion concerning the interview instruments, please use the #datainfolit tag on Twitter. 
+We welcome any questions and feedback on the interview instruments and invite you to send them to us. For discussion concerning the interview instruments, please use the [#datainfolit](https://twitter.com/search?q=%23datainfolit) tag on Twitter. 
