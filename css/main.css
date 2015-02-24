@@ -28,3 +28,6 @@ nav a {
     width: 80px;
     height: 40px;
 }
+#content {
+    float: right;
+}
