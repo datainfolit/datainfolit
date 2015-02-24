@@ -20,3 +20,7 @@ ul.posts li {
 nav ul {
     list-style: none;
 }
+nav a {
+    display: block;
+    width: 60px;
+}
