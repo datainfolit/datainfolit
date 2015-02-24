@@ -20,6 +20,7 @@ ul.posts li {
 nav {
     float: left;
     height: 100%;
+    width: 20%;
 }
 nav ul {
     list-style: none;
@@ -28,7 +29,4 @@ nav a {
     display: block;
     width: 6em;
     height: 2em;
-}
-#content {
-    float: right;
 }
