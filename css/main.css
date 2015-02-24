@@ -31,6 +31,6 @@ nav a {
     height: 2em;
 }
 .content {
-    position: relative;
+    float: right;
     width: 80%;
 }
