@@ -1,6 +1,6 @@
 body {
     margin: 60px auto;
-    width: 70%;
+    width: 80%;
 }
 a {
     text-decoration: none;
@@ -31,7 +31,6 @@ nav a {
     height: 2em;
 }
 .button {
-    padding: 10px 15px;
     background: #4479BA;
     color: #FFF;
 }
