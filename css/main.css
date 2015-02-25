@@ -39,6 +39,7 @@ nav a {
     padding-bottom: 0.5em;
     display: block;
     border-radius: 0.25em;
+    border-color: #fff;
 }
 .content {
     width: 80%;
