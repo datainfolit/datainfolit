@@ -30,6 +30,11 @@ nav a {
     width: 6em;
     height: 2em;
 }
+.button {
+    padding: 10px 15px;
+    background: #4479BA;
+    color: #FFF;
+}
 .content {
     width: 80%;
     float: left;
