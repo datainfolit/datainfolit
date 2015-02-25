@@ -48,3 +48,7 @@ nav a {
     width: 80%;
     float: left;
 }
+header {
+    background: #215791;
+    width: 100%;
+}
