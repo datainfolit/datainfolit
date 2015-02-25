@@ -41,6 +41,9 @@ nav a {
     border-radius: 0.25em;
     margin: 0.5em;
 }
+.button:hover {
+    background: #28597a;
+}
 .content {
     width: 80%;
     float: left;
