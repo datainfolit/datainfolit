@@ -43,6 +43,7 @@ nav a {
 .content {
     width: 80%;
     float: left;
+    font-family: Arial,"DejaVu Sans","Liberation Sans",Freesans,sans-serif;
 }
 .post {
     width:80%;
