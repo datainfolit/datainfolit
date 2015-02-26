@@ -2,6 +2,9 @@ body {
     margin: 60px auto;
     width: 100%;
 }
+h1, h2, h3 {
+    font-family: "Century Gothic",futura,"URW Gothic L",Verdana,sans-serif;;
+}
 a {
     text-decoration: none;
     color: #00008B;
