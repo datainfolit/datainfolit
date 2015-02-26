@@ -21,6 +21,10 @@ nav {
 nav ul {
     list-style: none;
 }
+nav ul li {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 1em;
+}
 nav a {
     display: block;
     width: 6em;
@@ -43,7 +47,7 @@ nav a {
 .content {
     width: 80%;
     float: left;
-    font-family: Arial,"DejaVu Sans","Liberation Sans",Freesans,sans-serif;
+    font-family: Arial, "DejaVu Sans", "Liberation Sans", Freesans, sans-serif;
 }
 .post {
     width:80%;
