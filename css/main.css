@@ -1,5 +1,6 @@
 body {
-    width: 100%;
+    margin: auto;
+    width: 70%;
 }
 h1, h2, h3 {
     font-family: "Century Gothic",futura,"URW Gothic L",Verdana,sans-serif;;
