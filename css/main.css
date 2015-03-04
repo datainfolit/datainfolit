@@ -17,10 +17,6 @@ a:hover {
     text-decoration: underline;
     color: #999999;
 }
-ul.postlist {
-    padding-left: 2vw;
-    padding-right: 2vw;
-}
 ul.postlist li {
     list-style: none;
     padding-left: 2vw;
