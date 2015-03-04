@@ -58,6 +58,9 @@ nav a:hover {
     float: left;
     font-family: Arial, "DejaVu Sans", "Liberation Sans", Freesans, sans-serif;
 }
+p {
+    padding: 1em;
+}
 .post {
     width:80%;
     float: left;
