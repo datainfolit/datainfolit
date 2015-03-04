@@ -5,7 +5,9 @@ body {
     overflow-x: hidden;
 }
 h1, h2, h3 {
-    font-family: "Century Gothic",futura,"URW Gothic L",Verdana,sans-serif;;
+    font-family: "Century Gothic",futura,"URW Gothic L",Verdana,sans-serif;
+    padding-left: 1em;
+    padding-right: 1em;
 }
 a {
     text-decoration: none;
@@ -59,7 +61,8 @@ nav a:hover {
     font-family: Arial, "DejaVu Sans", "Liberation Sans", Freesans, sans-serif;
 }
 p {
-    padding: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
 }
 .post {
     width:80%;
