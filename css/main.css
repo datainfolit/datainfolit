@@ -82,8 +82,7 @@ header {
 footer {
     background: #215791;
     width: 100%;
-    height: 2em%;
-    position: relative;
+    height: 2em;
+    position: fixed;
     bottom: 0;
-    clear: both;
 }
