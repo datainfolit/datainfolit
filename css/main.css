@@ -79,3 +79,8 @@ header {
     padding-left: 2em;
     padding-right: 2em;
 }
+footer {
+    background: #215791;
+    width: 100%;
+    height: 10%;
+}
