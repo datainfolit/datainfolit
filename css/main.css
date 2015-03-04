@@ -6,12 +6,8 @@ body {
 }
 h1, h2, h3 {
     font-family: "Century Gothic",futura,"URW Gothic L",Verdana,sans-serif;
-}
-h1 {
-    padding-left: 0.25em;
-}
-h2 {
-    padding-left: 0.5em;
+    padding-left: 1vw;
+    padding-right: 1vw;
 }
 a {
     text-decoration: none;
