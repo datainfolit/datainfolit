@@ -9,11 +9,9 @@ h1, h2, h3 {
 }
 h1 {
     padding-left: 0.25em;
-    padding-right: 0.25em;
 }
 h2 {
     padding-left: 0.5em;
-    padding-right: 0.5em;
 }
 a {
     text-decoration: none;
