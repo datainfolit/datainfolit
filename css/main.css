@@ -17,7 +17,11 @@ a:hover {
     text-decoration: underline;
     color: #999999;
 }
-ul.posts li {
+ul.postlist {
+    padding-left: 1vw;
+    padding-right: 1vw;
+}
+ul.postlist li {
     list-style: none;
 }
 nav {
@@ -61,10 +65,6 @@ nav a:hover {
     font-family: Arial, "DejaVu Sans", "Liberation Sans", Freesans, sans-serif;
 }
 p {
-    padding-left: 1vw;
-    padding-right: 1vw;
-}
-.posts {
     padding-left: 1vw;
     padding-right: 1vw;
 }
