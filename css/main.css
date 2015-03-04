@@ -18,8 +18,8 @@ a:hover {
     color: #999999;
 }
 ul.postlist {
-    padding-left: 1vw;
-    padding-right: 1vw;
+    padding-left: 2vw;
+    padding-right: 2vw;
 }
 ul.postlist li {
     list-style: none;
