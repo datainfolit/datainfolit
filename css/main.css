@@ -19,8 +19,8 @@ a:hover {
 }
 ul.postlist li {
     list-style: none;
-    padding-left: 2vw;
-    padding-right: 2vw;
+    padding-left: 1vw;
+    padding-right: 1vw;
 }
 nav {
     float: left;
