@@ -1,14 +1,17 @@
+/*Page width, margins, height, etc.*/
 body {
     margin: auto;
     width: 100%;
     height: 100%;
     overflow-x: hidden;
 }
+/*Headings*/
 h1, h2, h3 {
     font-family: "Century Gothic",futura,"URW Gothic L",Verdana,sans-serif;
     padding-left: 1vw;
     padding-right: 1vw;
 }
+/*links*/
 a {
     text-decoration: none;
     color: #00008B;
@@ -17,11 +20,13 @@ a:hover {
     text-decoration: underline;
     color: #999999;
 }
+/*Blog list*/
 ul.postlist li {
     list-style: none;
     padding-left: 1vw;
     padding-right: 1vw;
 }
+/*navigation bar on left*/
 nav {
     float: left;
     height: 100%;
@@ -57,6 +62,7 @@ nav a:hover {
 .button:hover {
     background: #6EA6E1;
 }
+/*content*/
 .content {
     width: 80%;
     float: left;
@@ -66,10 +72,12 @@ p {
     padding-left: 1vw;
     padding-right: 1vw;
 }
+/*Blog post content*/
 .post {
     width:80%;
     float: left;
 }
+/*header*/
 header {
     background: #215791;
     width: 100%;
@@ -79,6 +87,7 @@ header {
     padding-left: 2em;
     padding-right: 2em;
 }
+/*footer*/
 footer {
     background: #215791;
     width: 100%;
