@@ -97,4 +97,5 @@ footer {
     background: #215791;
     position: absolute;
     overflow: hidden;
+    bottom: 0;
 }
