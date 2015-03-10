@@ -5,6 +5,7 @@ body {
     height: 100%;
     overflow-x: hidden;
     position: absolute;
+    top: 0;
 }
 /*Headings*/
 h1, h2, h3 {
