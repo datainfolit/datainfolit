@@ -12,7 +12,7 @@ h1, h2, h3 {
     padding-right: 1vw;
 }
 h1.underline {
-    background-image: ('../images/hr5.png') no-repeat left bottom;
+    background-image: url('../images/hr5.png') no-repeat left bottom;
 }
 /*links*/
 a {
