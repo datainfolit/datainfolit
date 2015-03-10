@@ -11,6 +11,9 @@ h1, h2, h3 {
     padding-left: 1vw;
     padding-right: 1vw;
 }
+h1.underline {
+    background-image: (images/hr5.png) no-repeat right center;
+}
 /*links*/
 a {
     text-decoration: none;
