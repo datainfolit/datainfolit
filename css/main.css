@@ -35,7 +35,7 @@ ul.postlist li {
 nav {
     float: left;
     height: 100%;
-    width: 20%;
+    width: 17%;
 }
 nav ul {
     list-style: none;
@@ -70,7 +70,7 @@ nav a:hover {
 }
 /*content*/
 .content {
-    width: 80%;
+    width: 83%;
     float: left;
     font-family: Arial, "DejaVu Sans", "Liberation Sans", Freesans, sans-serif;
 }
