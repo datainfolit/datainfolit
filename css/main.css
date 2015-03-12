@@ -42,12 +42,13 @@ nav ul {
 }
 nav ul li {
     font-family: Verdana, Arial, Helvetica, sans-serif;
-    font-size: 1em;
+    font-size: 0.75em;
 }
 nav a {
     display: block;
     width: 80%;
-    height: 2em;
+    height: 1.5em;
+    padding-right: 1vw;
 }
 nav a:hover {
     text-decoration: none;
