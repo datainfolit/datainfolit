@@ -108,6 +108,7 @@ footer {
     clear: both;
     position: relative;
     text-align: center;
+    top: 0;
     bottom: 0;
 }
 footer ul {
