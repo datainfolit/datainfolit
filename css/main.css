@@ -74,7 +74,6 @@ nav a:hover {
 .content {
     width: 83%;
     height: auto;
-    position: relative;
     float: left;
     font-family: Arial, "DejaVu Sans", "Liberation Sans", Freesans, sans-serif;
 }
@@ -110,7 +109,6 @@ footer {
     clear: both;
     position: relative;
     text-align: center;
-    top: 0;
     bottom: 0;
 }
 footer ul {
