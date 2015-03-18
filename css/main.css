@@ -73,6 +73,7 @@ nav a:hover {
 /*content*/
 .content {
     width: 83%;
+    height: auto;
     float: left;
     font-family: Arial, "DejaVu Sans", "Liberation Sans", Freesans, sans-serif;
 }
