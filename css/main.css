@@ -70,6 +70,9 @@ nav a:hover {
 .button:hover {
     background: #6EA6E1;
 }
+nav ul.socialmedia li {
+    display: inline;
+}
 /*content*/
 .content {
     width: 83%;
