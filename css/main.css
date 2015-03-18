@@ -70,12 +70,8 @@ nav a:hover {
 .button:hover {
     background: #6EA6E1;
 }
-ul.socialmedia {
-    list-style: none;
+p.socialmedia {
     text-align: center;
-}
-ul.socialmedia li {
-    display: inline;
 }
 /*content*/
 .content {
