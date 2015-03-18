@@ -70,6 +70,9 @@ nav a:hover {
 .button:hover {
     background: #6EA6E1;
 }
+nav ul.socialmedia {
+    list-style: none;
+}
 nav ul.socialmedia li {
     display: inline;
 }
