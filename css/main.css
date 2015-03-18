@@ -75,7 +75,7 @@ nav a:hover {
     width: 83%;
     height: auto;
     float: left;
-    overflow: hidden;
+    overflow-y: hidden;
     font-family: Arial, "DejaVu Sans", "Liberation Sans", Freesans, sans-serif;
 }
 p {
