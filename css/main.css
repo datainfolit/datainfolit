@@ -1,4 +1,7 @@
 /*Page width, margins, height, etc.*/
+html {
+    height: 100%;
+}
 body {
     margin: auto;
     width: 100%;
