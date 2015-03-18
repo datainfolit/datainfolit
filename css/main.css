@@ -76,22 +76,16 @@ nav a:hover {
     min-height: 100%;
     position: relative;
     float: left;
-    font-family: Arial, "DejaVu Sans", "Liberation Sans", Freesans, sans-serif;
 }
 p {
     padding-left: 1vw;
     padding-right: 1vw;
-    padding-bottom: 0vw;
+    font-family: Arial, "DejaVu Sans", "Liberation Sans", Freesans, sans-serif;
 }
 /*Blog post content*/
 .post {
     width:83%;
     float: left;
-}
-p {
-    padding-left: 1vw;
-    padding-right: 1vw;
-    padding-bottom: 0vw;
 }
 /*header*/
 header {
