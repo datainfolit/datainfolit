@@ -95,7 +95,8 @@ header {
     padding-right: 2vw;
 }
 .logo {
-    height: 8vw;
+    height: 7vw;
+    position: top;
 }
 /*footer*/
 footer {
