@@ -109,7 +109,6 @@ footer {
     clear: both;   
     position: relative;
     text-align: center;
-    display: block;
 }
 footer ul {
     list-style: none; 
