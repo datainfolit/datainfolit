@@ -81,11 +81,17 @@ nav a:hover {
 p {
     padding-left: 1vw;
     padding-right: 1vw;
+    padding-bottom: 0vw;
 }
 /*Blog post content*/
 .post {
     width:83%;
     float: left;
+}
+p {
+    padding-left: 1vw;
+    padding-right: 1vw;
+    padding-bottom: 0vw;
 }
 /*header*/
 header {
