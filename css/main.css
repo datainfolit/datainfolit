@@ -72,6 +72,7 @@ nav a:hover {
 }
 ul.socialmedia {
     list-style: none;
+    text-align: center;
 }
 ul.socialmedia li {
     display: inline;
