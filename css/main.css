@@ -86,7 +86,7 @@ p {
 /*header*/
 header {
     background: url('../images/header5.png') repeat-x bottom;
-    background-size: 100%;
+    background: 100% 100%;
     width: 100%;
     height: 9vw;
     padding-top: 1vw;
