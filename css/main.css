@@ -74,7 +74,7 @@ ul.socialmedia {
     list-style: none;
 }
 ul.socialmedia li {
-    display: inline-block;
+    display: inline;
 }
 .social {
     padding: 0.5vw;
@@ -82,8 +82,8 @@ ul.socialmedia li {
     width: 3vw;
 }
 .smlogo {
-    height: 4vw;
-    width: 4vw;
+    height: 3vw;
+    width: 3vw;
 }
 /*content*/
 .content {
