@@ -81,6 +81,10 @@ ul.socialmedia li {
     height: 3vw;
     width: 3vw;
 }
+.smlogo {
+    height: 4vw;
+    width: 4vw;
+}
 /*content*/
 .content {
     width: 83%;
