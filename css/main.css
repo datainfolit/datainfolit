@@ -70,11 +70,14 @@ nav a:hover {
 .button:hover {
     background: #6EA6E1;
 }
-p.socialmedia {
-    text-align: center;
+ul.socialmedia {
+    list-style: none;
+}
+ul.socialmedia li {
+    display: inline;
 }
 .social {
-    display: block;
+    padding: 0.5vw;
 }
 /*content*/
 .content {
