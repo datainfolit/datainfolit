@@ -74,12 +74,12 @@ ul.socialmedia {
     list-style: none;
 }
 ul.socialmedia li {
-    display: inline;
+    display: inline-block;
 }
 .social {
     padding: 0.5vw;
-    height: 2vw;
-    width: 2vw;
+    height: 3vw;
+    width: 3vw;
 }
 /*content*/
 .content {
