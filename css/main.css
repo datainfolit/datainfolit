@@ -72,7 +72,9 @@ nav a:hover {
 }
 p.socialmedia {
     text-align: center;
-    display: inline;
+}
+.social {
+    display: block;
 }
 /*content*/
 .content {
