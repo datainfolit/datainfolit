@@ -1,4 +1,4 @@
 name: Data Information Literacy
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-include: ["cornell.jpg", "dil12.png", "facebook.png", "imls.jpg", "pulib.png", "twitter.png", "umn.jpg", "uo.jpg"]
+include: ["images/cornell.jpg", "images/dil12.png", "images/facebook.png", "images/imls.jpg", "images/pulib.png", "images/twitter.png", "images/umn.jpg", "images/uo.jpg"]
