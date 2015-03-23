@@ -1,43 +1,17 @@
 <!DOCTYPE html>
 	<html>
-		<head>
-			<title>{{ page.title }}</title>
-			<link rel="stylesheet" type="text/css" href="/css/main.css">
-		</head>
+		{% include head.html %}
+		
 		<body>
-			<header>
-				<a href="/"><img class="logo" src="../images/dil12.png" alt="Data Information Literacy"></a>
-			</header>
-			<nav>
-	    		<ul>
-	        		<li><a href="/" class="button">Home</a></li>
-	        		<li><a href="/blog" class="button">News</a></li>
-		        	<li><a href="/about" class="button">About</a></li>
-	        		<li><a href="/partners" class="button">Partners</a></li>
-	        		<li><a href="/dilguide" class="button">DIL Guide</a></li>
-	        		<li><a href="/materials" class="button">Materials</a></li>
-	        		<li><a href="/publications" class="button">Publications</a></li>
-	        		<li><a href="/symposium" class="button">Symposium</a></li>
-	        		<li><a href="/book" class="button">Book</a></li>
-	        		<li><a href="/casestudies" class="button">Case Studies</a></li>
-	        		<li><a href="/links"class="button">Links</a></li>
-	    		</ul>
-	    		<ul class="socialmedia">
-	    			<li></li><a class="smlogo" href="https://www.facebook.com/datainfolit" target="blank"><img class="social" src="../images/facebook.png"></a></li>
-	    			<li></li><a class="smlogo" href="https://twitter.com/datainfolit" target="blank"><img class="social" src="../images/twitter.png"></a></li>
-	    		</ul>
-			</nav>
+			{% include header.html %}
+			
+			{% include nav.html %}
+			
 			<div class="container">
 				{{ content }}
 			</div>
-			<footer>
-			<ul>
-				<li><a href="http://www.imls.gov/" target="blank"><img class="partners" src="../images/imls.jpg"></a></li>
-				<li><a href="https://www.lib.purdue.edu/" target="blank"><img class="partners" src="../images/pulib.png"></a></li>
-				<li><a href="https://www.lib.umn.edu/" target="blank"><img class="partners" src="../images/umn.jpg"></a></li>
-				<li><a href="http://library.uoregon.edu/" target="blank"><img class="partners" src="../images/uo.jpg"></a></li>
-				<li><a href="https://www.library.cornell.edu/" target="blank"><img class="partners" src="../images/cornell.jpg"></a></li>
-			</ul>
-			</footer>
+			
+			{% include footer.html %}
+			
 		</body>
 	</html>
