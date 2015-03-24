@@ -1,4 +1,4 @@
 name: Data Information Literacy
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-keep_files: ['_images']
+exclude: ['_images']
