@@ -105,8 +105,8 @@ li {
     border-style: solid;
 }
 .figure {
-    text-align: center;
-    height: 25vh;
+    margin: auto;
+    height: 75vh;
 }
 /*Blog post content*/
 .post {
