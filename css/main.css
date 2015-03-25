@@ -104,6 +104,10 @@ li {
     border-width: thin;
     border-style: solid;
 }
+.figure {
+    text-align: center;
+    height: 25vh;
+}
 /*Blog post content*/
 .post {
     width:83%;
