@@ -108,7 +108,7 @@ li {
     height: 75vh;
 }
 p img.figure {
-    text-align: center;
+    margin: auto;
 }
 /*Blog post content*/
 .post {
