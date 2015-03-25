@@ -97,6 +97,13 @@ p {
     padding-right: 1vw;
     font-family: Arial, "DejaVu Sans", "Liberation Sans", Freesans, sans-serif;
 }
+li {
+    font-family: Arial, "DejaVu Sans", "Liberation Sans", Freesans, sans-serif;
+}
+.box {
+    border-width: thin;
+    border-style: solid;
+}
 /*Blog post content*/
 .post {
     width:83%;
