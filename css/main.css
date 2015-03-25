@@ -107,9 +107,6 @@ li {
 .figure {
     height: 75vh;
 }
-p img.figure {
-    margin: auto;
-}
 /*Blog post content*/
 .post {
     width:83%;
