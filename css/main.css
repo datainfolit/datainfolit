@@ -105,8 +105,10 @@ li {
     border-style: solid;
 }
 .figure {
-    text-align: center;
     height: 75vh;
+}
+p img.figure {
+    text-align: center;
 }
 /*Blog post content*/
 .post {
