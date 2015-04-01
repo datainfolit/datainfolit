@@ -37,14 +37,14 @@ ul.postlist li {
 nav {
     float: left;
     height: 100%;
-    width: 25%;
+    width: 20%;
 }
 nav ul {
     list-style: none;
 }
 nav ul li {
     font-family: Verdana, Arial, Helvetica, sans-serif;
-    font-size: 1em;
+    font-size: 0.75em;
 }
 nav a {
     display: block;
@@ -87,7 +87,7 @@ ul.socialmedia li {
 }
 /*content*/
 .content {
-    width: 75%;
+    width: 80%;
     min-height: 100%;
     position: relative;
     float: left;
