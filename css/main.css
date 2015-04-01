@@ -48,7 +48,7 @@ nav ul li {
 }
 nav a {
     display: block;
-    width: 80%;
+    width: 85%;
     height: 1.75em;
     padding-right: 1vw;
 }
@@ -59,7 +59,7 @@ nav a:hover {
 .button {
     background: #215791;
     color: #FFF;
-    padding-right: 0.5vw;
+    padding-right: 1vw;
     padding-left: 1vw;
     padding-top: 0.5em;
     padding-bottom: 0.5em;
