@@ -37,7 +37,7 @@ ul.postlist li {
 nav {
     float: left;
     height: 100%;
-    width: 17%;
+    width: 20%;
 }
 nav ul {
     list-style: none;
@@ -87,7 +87,7 @@ ul.socialmedia li {
 }
 /*content*/
 .content {
-    width: 83%;
+    width: 80%;
     min-height: 100%;
     position: relative;
     float: left;
