@@ -16,7 +16,8 @@ h1, h2, h3, h4, h5 {
 }
 h1.underline {
     background: url('../_images/hr5.png') no-repeat left bottom;
-    padding: 0.6em;
+    padding: 0.5em;
+    padding-left: 1em;
 }
 /*links*/
 a {
