@@ -147,3 +147,27 @@ footer ul li {
     position: top;
     padding: 1vw;
 }
+@media only screen and (max-width: 600px) {	
+    nav > a {
+        display: none;
+    }
+    nav li {
+        position: relative;
+    }
+    nav > ul {
+        height: 3.75em;
+    }
+    nav > ul > li {
+        width: 25%;
+        height: 100%;
+        float: left;
+    }
+    nav li ul {
+        display: none;
+        position: absolute;
+        top: 100%;
+    }
+    nav li:hover ul {
+        display: block;
+    }
+    
