@@ -147,3 +147,14 @@ footer ul li {
     position: top;
     padding: 1vw;
 }
+@media only screen and (max-width: 600px) {	
+
+nav {
+	height: 25vh;
+	}
+nav ul li {
+	display: block;
+	list-style-type: none; 
+	padding: 0.25vh;
+	text-align: center;
+	}
